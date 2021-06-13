@@ -2,7 +2,7 @@
 2021 Machine Learning Roadmap
 
 
-<img width="1313" alt="スクリーンショット 2021-05-02 8 28 54" src="https://user-images.githubusercontent.com/72504808/116797409-84306780-ab20-11eb-9fad-10e36a2d5933.png">
+<img width="1313" alt="スクリーンショット 2021-06-14 0 03 37" src="https://user-images.githubusercontent.com/72504808/116797409-84306780-ab20-11eb-9fad-10e36a2d5933.png">
 
 
 
