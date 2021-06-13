@@ -11,11 +11,11 @@ A roadmap connecting many of the most important concepts in machine learning, ho
 
 Namely:
 ```
-Machine Learning Problems - what does a machine learning problem look like?
-Machine Learning Process - once you’ve found a problem, what steps might you take to solve it?
-Machine Learning Tools - what should you use to build your solution?
-Machine Learning Mathematics - what exactly is happening under the hood of all the machine learning code you're writing?
-Machines Learning Resources - okay, this is cool, how can I learn all of this?
+😏Machine Learning Problems - what does a machine learning problem look like?
+😎Machine Learning Process - once you’ve found a problem, what steps might you take to solve it?
+👍Machine Learning Tools - what should you use to build your solution?
+🧐Machine Learning Mathematics - what exactly is happening under the hood of all the machine learning code you're writing?
+😗Machines Learning Resources - okay, this is cool, how can I learn all of this?
 ```
 
 See the full interactive version. https://whimsical.com/mind-map-2021-X9vxBpcwP7K4WP5BrDJma6
